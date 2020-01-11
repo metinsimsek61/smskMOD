@@ -1,0 +1,6 @@
+name: "smskMOD"
+displayName: "[orange]mtnsmsk's[gold] smskMOD" //what displays in the mod selection menu
+author: "mtnsmsk"
+description: "A mod created by mtnsmsk"
+version: "1.0"
+minGameVersion: "101"
